@@ -1,6 +1,7 @@
 ## cs224n - Natural Language Processing with Deep Learning
 
 [Description Here]
+> Lecture Notes: Click [Here](https://docs.google.com/document/d/1Tsw_XESes-05mWIlps293Hc0cc5U_c-bLF4v85OwCkk/edit?tab=t.0) (personal use only)
 
 ### Links
 - Click [Here](https://web.stanford.edu/class/cs224n/index.html) for CS224N Course Link
