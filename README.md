@@ -9,7 +9,7 @@
 ### Course Schedule
 
 #### Week 1: Sep. 1 - 5
-- [Lecture 1](youtube.com/watch?v=rmVRLeJRkl4&list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4&index=1&pp=iAQB2AYB): Introduction and Word Vectors
+- [Lecture 1](https://www.youtube.com/watch?v=rmVRLeJRkl4&list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4&index=1&pp=iAQB2AYB): Introduction and Word Vectors
 - [Lecture 2](https://www.youtube.com/watch?v=gqaHkPEZAew&list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4&index=2&pp=iAQB0gcJCcYJAYcqIYzv): Neural Classifiers
 - Assignment 1
 
